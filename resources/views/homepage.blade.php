@@ -101,7 +101,7 @@
                     <div class="icon"><span class="icon-calendar"></span></div>
                     <input type="text" id="checkout_date" class="form-control">
                   </div>
-                </div>
+                </div>  
                 <div class="col-md-6 mb-3 mb-md-0 col-lg-3">
                   <div class="row">
                     <div class="col-md-6 mb-3 mb-md-0">
