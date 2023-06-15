@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Sogo Hotel by Colorlib.com</title>
+    <title>Sedayu Hotel by Colorlib.com</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="" />
     <meta name="keywords" content="" />
@@ -29,7 +29,7 @@
     <header class="site-header js-site-header">
       <div class="container-fluid">
         <div class="row align-items-center">
-          <div class="col-6 col-lg-4 site-logo" data-aos="fade"><a href="index.html">Sogo Hotel</a></div>
+          <div class="col-6 col-lg-4 site-logo" data-aos="fade"><a href="index.html">Sedayu Hotel</a></div>
           <div class="col-6 col-lg-8">
 
 
@@ -124,9 +124,9 @@
           <div class="col-md-5" data-aos="fade-up" data-aos-delay="200">
             <div class="row">
               <div class="col-md-10 ml-auto contact-info">
-                <p><span class="d-block">Address:</span> <span> 98 West 21th Street, Suite 721 New York NY 10016</span></p>
-                <p><span class="d-block">Phone:</span> <span> (+1) 234 4567 8910</span></p>
-                <p><span class="d-block">Email:</span> <span> info@domain.com</span></p>
+                <p><span class="d-block">Address:</span> <span> Karanglo, Argomulyo, Sedayu, Bantul</span></p>
+                <p><span class="d-block">Phone:</span> <span> 0272-1233-1512</span></p>
+                <p><span class="d-block">Email:</span> <span> kbti@si.ukdw.ac.id</span></p>
               </div>
             </div>
           </div>
@@ -150,9 +150,9 @@
               </div>
               <blockquote>
 
-                <p>&ldquo;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&rdquo;</p>
+                <p>&ldquo;Viewnya keren! makanannya enak-enak! liburan nanti mau kesini lagi deh :D &rdquo;</p>
               </blockquote>
-              <p><em>&mdash; Jean Smith</em></p>
+              <p><em>&mdash; Nagita Slavina </em></p>
             </div> 
 
             <div class="testimonial text-center slider-item">
@@ -160,9 +160,9 @@
                 <img src="images/person_2.jpg" alt="Image placeholder" class="rounded-circle mx-auto">
               </div>
               <blockquote>
-                <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
+                <p>&ldquo;Kamarnya bersih dan luas, ada playground juga Cipung jd ga bosen! recommend deh pokoknya ni hotel! &rdquo;</p>
               </blockquote>
-              <p><em>&mdash; John Doe</em></p>
+              <p><em>&mdash; Raffi Ahmad</em></p>
             </div>
 
             <div class="testimonial text-center slider-item">
@@ -171,9 +171,9 @@
               </div>
               <blockquote>
 
-                <p>&ldquo;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&rdquo;</p>
+                <p>&ldquo;Parkirannya luas, ada fasilitas gym juga jd tetep bisa fit meskipun lagi liburan! Ashiaapppppp! &rdquo;</p>
               </blockquote>
-              <p><em>&mdash; John Doe</em></p>
+              <p><em>&mdash; Atta Halilintar </em></p>
             </div>
 
 
@@ -183,9 +183,9 @@
               </div>
               <blockquote>
 
-                <p>&ldquo;A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&rdquo;</p>
+                <p>&ldquo;Hotelnya nyaman, kasurnya empuk.... anak-anak pada seneng main di kolam renangnya&rdquo;</p>
               </blockquote>
-              <p><em>&mdash; Jean Smith</em></p>
+              <p><em>&mdash; Aurel Hermansyah </em></p>
             </div> 
 
             <div class="testimonial text-center slider-item">
@@ -193,9 +193,9 @@
                 <img src="images/person_2.jpg" alt="Image placeholder" class="rounded-circle mx-auto">
               </div>
               <blockquote>
-                <p>&ldquo;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&rdquo;</p>
+                <p>&ldquo;Meskipun di desa tapi kualitas bintang 5!! Top markotop!  &rdquo;</p>
               </blockquote>
-              <p><em>&mdash; John Doe</em></p>
+              <p><em>&mdash; Aldi Taher</em></p>
             </div>
 
             <div class="testimonial text-center slider-item">
@@ -204,9 +204,9 @@
               </div>
               <blockquote>
 
-                <p>&ldquo;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.&rdquo;</p>
+                <p>&ldquo;Alea dan Aca suka banget nih staycation disini, hotelnya juga keren ngingetin gua waktu kuliah di Adelaide dulu! &rdquo;</p>
               </blockquote>
-              <p><em>&mdash; John Doe</em></p>
+              <p><em>&mdash; Raditya Dika</em></p>
             </div>
 
           </div>
@@ -231,58 +231,7 @@
         </div>
       </section>
 
-    <footer class="section footer-section">
-      <div class="container">
-        <div class="row mb-4">
-          <div class="col-md-3 mb-5">
-            <ul class="list-unstyled link">
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Terms &amp; Conditions</a></li>
-              <li><a href="#">Privacy Policy</a></li>
-             <li><a href="#">Rooms</a></li>
-            </ul>
-          </div>
-          <div class="col-md-3 mb-5">
-            <ul class="list-unstyled link">
-              <li><a href="#">The Rooms &amp; Suites</a></li>
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Contact Us</a></li>
-              <li><a href="#">Restaurant</a></li>
-            </ul>
-          </div>
-          <div class="col-md-3 mb-5 pr-md-5 contact-info">
-            <!-- <li>198 West 21th Street, <br> Suite 721 New York NY 10016</li> -->
-            <p><span class="d-block"><span class="ion-ios-location h5 mr-3 text-primary"></span>Address:</span> <span> 198 West 21th Street, <br> Suite 721 New York NY 10016</span></p>
-            <p><span class="d-block"><span class="ion-ios-telephone h5 mr-3 text-primary"></span>Phone:</span> <span> (+1) 435 3533</span></p>
-            <p><span class="d-block"><span class="ion-ios-email h5 mr-3 text-primary"></span>Email:</span> <span> info@domain.com</span></p>
-          </div>
-          <div class="col-md-3 mb-5">
-            <p>Sign up for our newsletter</p>
-            <form action="#" class="footer-newsletter">
-              <div class="form-group">
-                <input type="email" class="form-control" placeholder="Email...">
-                <button type="submit" class="btn"><span class="fa fa-paper-plane"></span></button>
-              </div>
-            </form>
-          </div>
-        </div>
-        <div class="row pt-5">
-          <p class="col-md-6 text-left">
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-          </p>
-            
-          <p class="col-md-6 text-right social">
-            <a href="#"><span class="fa fa-tripadvisor"></span></a>
-            <a href="#"><span class="fa fa-facebook"></span></a>
-            <a href="#"><span class="fa fa-twitter"></span></a>
-            <a href="#"><span class="fa fa-linkedin"></span></a>
-            <a href="#"><span class="fa fa-vimeo"></span></a>
-          </p>
-        </div>
-      </div>
-    </footer>
+      @include('footer')
     
     <script src="js/jquery-3.3.1.min.js"></script>
     <script src="js/jquery-migrate-3.0.1.min.js"></script>
