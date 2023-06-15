@@ -3,7 +3,7 @@
       <div class="container-fluid">
         <div class="row align-items-center">
           <div class="col-6 col-lg-4 site-logo" data-aos="fade">
-            <a href="/"><img src="images/logo.png" style="width:105px;height:100px;margin:30px;"></a></div>
+            <a href="/home"><img src="images/logo.png" style="width:105px;height:100px;margin:30px;"></a></div>
           <div class="col-6 col-lg-8">
 
             <div class="site-menu-toggle js-site-menu-toggle"  data-aos="fade">
@@ -19,7 +19,7 @@
                   <div class="row full-height align-items-center">
                     <div class="col-md-6 mx-auto">
                       <ul class="list-unstyled menu">
-                        <li class="active"><a href="/">Home</a></li>
+                        <li class="active"><a href="/home">Home</a></li>
                         <li><a href="/room">Rooms</a></li>
                         <li><a href="/about">About</a></li>
                         <li><a href="/contact">Contact</a></li>

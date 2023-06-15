@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PesanController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,6 +17,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/home', function () {
     return view('homepage');
 });
+
+Route::post('/pemesanan', [PesanController::class,'pemesanan']);
+
+//Route::get('/form-pemesanan'.[PesanController::class,'form_pemesanan']);
 
 Route::get('/room', function () {
     return view('room');
