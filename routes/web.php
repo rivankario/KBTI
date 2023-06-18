@@ -26,6 +26,10 @@ Route::get('/room', function () {
     return view('room');
 });
 
+Route::get('/payment', function () {
+    return view('payment');
+});
+
 Route::get('/contact', function () {
     return view('contact');
 });
